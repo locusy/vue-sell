@@ -1,2 +1,1 @@
-# Vue2.0-sell
-VUE2.0实现的订餐软件，使用vue-cli脚手架搭建代码框架，ES6+eslint代码风格检查工具，webpack打包编译。
+VUE2.0实现的订餐软件，使用VUE-CLI脚手架搭建代码框架，结合ES6部分语法+ eslint代码风格检查工具，项目使用WebPack打包编译。
